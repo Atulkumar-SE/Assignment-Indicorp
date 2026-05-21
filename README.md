@@ -123,10 +123,8 @@ While built completely on the client side to meet frontend assignment requiremen
 *   Fully optimized responsive UI variants for mobile devices.
 ---
 
-##👨‍💻 Author
-
+## 👨‍💻 Author
 Atul Kumar
-
 Frontend Developer | React.js | MERN Stack
 
 
