@@ -4,6 +4,9 @@ A robust React + Vite frontend application designed to streamline tool inventory
 
 This project was developed as a technical assignment for the Frontend Developer role to demonstrate production-ready component architecture, state management, and user workflow handling.
 
+<p align="center">
+  <img src="src/assets/screenshots/mechanic-dashboard.png" alt="Mechanic Panel and Inventory Grid" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+</p>
 ---
 
 ## 🚀 Project Overview
@@ -68,3 +71,68 @@ src/
 ├── utils/           # Helper functions (Validation logic, formatters)
 ├── App.jsx          # Root application component
 └── main.jsx         # Application entry point
+```
+---
+
+## 🔄 System Workflow
+graph TD
+```text
+    A[Step 1: Registration] --> B[Step 2: Login Admin/Mechanic]
+    B --> C{User Role?}
+    C -->|Admin| D[Step 3: Inventory Management - Add/Edit Tools]
+    C -->|Mechanic| E[Step 4: Tool Issue - Check out tools]
+    E --> F[Step 5: Tool Return - Check in tools]
+    D --> G[Step 6: Central Issue Register - Global Logs]
+    F --> G
+```
+
+*   Registration: Mechanics sign up with their profile data and skill level.
+*   Login: Users authenticate into their specific dashboard experience.
+*   Inventory Adjustment: Admin seeds or updates tool counts.
+*   Tool Check-out: Mechanic issues a tool; available stock drops by 1.
+*   Tool Check-in: Mechanic returns the tool; available stock increases by 1.
+*   Audit Trail: The system logs every state change in the main register.
+
+---
+
+### 💻 Running the Project Locally
+Follow these quick steps to get the development environment running on your local machine:
+
+### 1. Clone the repository
+```text
+git clone <repository-url>
+cd tools-issue-management
+```
+### 2. Install dependencies
+```text
+npm install
+```
+### 3. Start the development server
+```text
+npm run dev
+```
+
+The app should now be running smoothly at http://localhost:5173 (or the port specified in your terminal).
+---
+
+## 🔮 Future Enhancements
+While built completely on the client side to meet frontend assignment requirements, the app is architected to scale into the following upgrades easily:
+
+*   Full Backend integration utilizing Node.js & Express.
+*   Persistent data warehousing using MongoDB.
+*   Secure JWT (JSON Web Tokens) session tracking.
+*   Strict backend Role-Based Access Control (RBAC).
+*   Advanced global Search, multi-category Filtering, and sorting.
+*   Data analytics dashboard visualizations for tool usage metrics.
+*   Fully optimized responsive UI variants for mobile devices.
+---
+
+## 👨‍💻 Author
+Atul Kumar
+
+Frontend Developer | React.js | MERN Stack
+
+
+
+
+

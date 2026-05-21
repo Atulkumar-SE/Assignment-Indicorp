@@ -60,7 +60,7 @@ export const seedInitialData = () => {
         category: 'Wrench',
         inventoryNumber: 'TL-WRNC-001',
         quantity: 8,
-        image: 'https://images.unsplash.com/photo-1608613304899-ea8098577e38?auto=format&fit=crop&q=80&w=300'
+        image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=300'
       },
       {
         id: 'tool-4',
