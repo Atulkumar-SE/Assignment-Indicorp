@@ -111,6 +111,7 @@ npm install
 ```text
 npm run dev
 ```
+
 The app should now be running smoothly at http://localhost:5173 (or the port specified in your terminal).
 ---
 
