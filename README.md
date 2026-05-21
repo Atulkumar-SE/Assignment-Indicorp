@@ -6,10 +6,6 @@ This project was developed as a technical assignment for the Frontend Developer 
 
 <p align="center">
   <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-  <img src="src/assets/adminissue.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-  <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-  <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
-  
 </p>
 ---
 
@@ -18,7 +14,12 @@ This project was developed as a technical assignment for the Frontend Developer 
 The Tools Issue Management System simulates a real-world workshop environment where:
 *   **Mechanics** can register, log in, browse available tools, issue them for tasks, and return them.
 *   **Admins** can manage the tool inventory, track stock levels, and view global issue records.
-
+<p align="center">
+  <img src="src/Assets/MechDashboard.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+</p>
+<p align="center">
+  <img src="src/Assets/AdminDashboard.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+</p>
 ---
 
 ## 🛠️ Tech Stack
