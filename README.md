@@ -5,7 +5,11 @@ A robust React + Vite frontend application designed to streamline tool inventory
 This project was developed as a technical assignment for the Frontend Developer role to demonstrate production-ready component architecture, state management, and user workflow handling.
 
 <p align="center">
-  <img src="src/assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="src/assets/adminissue.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+  
 </p>
 ---
 
