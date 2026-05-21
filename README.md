@@ -37,7 +37,7 @@ The Tools Issue Management System simulates a real-world workshop environment wh
     *   *Email:* Format validation and uniqueness checks.
     *   *Mobile:* Fixed 10-digit validation and uniqueness checks.
     *   *Password:* Requires a mix of alphabets, numbers, and special characters (e.g., `Test@123`).
-    *  <p align="center">
+<p align="center">
   <img src="src/Assets/MechRegister.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
 
@@ -45,7 +45,7 @@ The Tools Issue Management System simulates a real-world workshop environment wh
 *   **Add & Manage Tools:** Create new tool profiles with core attributes: *Tool Name, Category, Tool Image, Inventory Number, and Total Quantity*.
 *   **Real-time Tracking:** Monitor global stock levels and immediate availability status.
 *   **Pre-defined Categories:** Supports structured classifications like *Screwdrivers, Wrenches, Pliers, Hammers*, etc.
-*   <p align="center">
+ <p align="center">
   <img src="src/Assets/AdminDashboard.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
 
@@ -54,7 +54,7 @@ The Tools Issue Management System simulates a real-world workshop environment wh
 *   **Issue Workflow:** Select and borrow tools for maintenance work (automatically updates inventory counts).
 *   **Return Workflow:** Return currently held tools back to the inventory system.
 *   **Issue History:** A personal activity log detailing past issued and returned items.
-*   <p align="center">
+ <p align="center">
   <img src="src/Assets/MechDashboard.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
 <p align="center">
