@@ -4,6 +4,9 @@ A robust React + Vite frontend application designed to streamline tool inventory
 
 This project was developed as a technical assignment for the Frontend Developer role to demonstrate production-ready component architecture, state management, and user workflow handling.
 
+<p align="center">
+  <img src="src/assets/screenshots/mechanic-dashboard.png" alt="Mechanic Panel and Inventory Grid" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+</p>
 ---
 
 ## 🚀 Project Overview
@@ -125,6 +128,7 @@ While built completely on the client side to meet frontend assignment requiremen
 
 ## 👨‍💻 Author
 Atul Kumar
+
 Frontend Developer | React.js | MERN Stack
 
 
