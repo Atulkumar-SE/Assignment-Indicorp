@@ -122,11 +122,11 @@ While built completely on the client side to meet frontend assignment requiremen
 *   Data analytics dashboard visualizations for tool usage metrics.
 *   Fully optimized responsive UI variants for mobile devices.
 ---
-## 🧑‍💻 Author
-Developed with ❤️ by Atul Kumar as a technical assignment submission for the Frontend Developer role.
 
+##👨‍💻 Author
 
-
+Atul Kumar
+Frontend Developer | React.js | MERN Stack
 
 
 
