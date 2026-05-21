@@ -69,9 +69,11 @@ src/
 ├── App.jsx          # Root application component
 └── main.jsx         # Application entry point
 ```
+---
 
 ## 🔄 System Workflow
 graph TD
+```text
     A[Step 1: Registration] --> B[Step 2: Login Admin/Mechanic]
     B --> C{User Role?}
     C -->|Admin| D[Step 3: Inventory Management - Add/Edit Tools]
@@ -79,6 +81,7 @@ graph TD
     E --> F[Step 5: Tool Return - Check in tools]
     D --> G[Step 6: Central Issue Register - Global Logs]
     F --> G
+```
 
 *   Registration: Mechanics sign up with their profile data and skill level.
 *   Login: Users authenticate into their specific dashboard experience.
@@ -86,6 +89,8 @@ graph TD
 *   Tool Check-out: Mechanic issues a tool; available stock drops by 1.
 *   Tool Check-in: Mechanic returns the tool; available stock increases by 1.
 *   Audit Trail: The system logs every state change in the main register.
+
+---
 
 ### 💻 Running the Project Locally
 Follow these quick steps to get the development environment running on your local machine:
@@ -104,6 +109,7 @@ npm install
 npm run dev
 ```
 The app should now be running smoothly at http://localhost:5173 (or the port specified in your terminal).
+---
 
 ## 🔮 Future Enhancements
 While built completely on the client side to meet frontend assignment requirements, the app is architected to scale into the following upgrades easily:
@@ -115,7 +121,7 @@ While built completely on the client side to meet frontend assignment requiremen
 *   Advanced global Search, multi-category Filtering, and sorting.
 *   Data analytics dashboard visualizations for tool usage metrics.
 *   Fully optimized responsive UI variants for mobile devices.
-
+---
 ## 🧑‍💻 Author
 Developed with ❤️ by Atul Kumar as a technical assignment submission for the Frontend Developer role.
 
