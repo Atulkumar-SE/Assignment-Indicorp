@@ -126,6 +126,7 @@ While built completely on the client side to meet frontend assignment requiremen
 ##👨‍💻 Author
 
 Atul Kumar
+
 Frontend Developer | React.js | MERN Stack
 
 
