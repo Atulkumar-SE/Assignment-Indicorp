@@ -7,7 +7,7 @@ const PRESET_IMAGES = [
   { label: 'Drill Machine', url: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?auto=format&fit=crop&q=80&w=300' },
   { label: 'Hammer', url: 'https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?auto=format&fit=crop&q=80&w=300' },
   { label: 'Wrench', url: 'https://images.unsplash.com/photo-1608613304899-ea8098577e38?auto=format&fit=crop&q=80&w=300' },
-  { label: 'Screwdriver', url: 'https://images.unsplash.com/photo-1530124560676-b0e5e8e4766e?auto=format&fit=crop&q=80&w=300' },
+  { label: 'Screwdriver', url: 'https://images.unsplash.com/photo-1770657986086-c1f20eef30ff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' },
   { label: 'Plier', url: 'https://images.unsplash.com/photo-1581244277943-fe4a9c777189?auto=format&fit=crop&q=80&w=300' },
   { label: 'Toolbox / Other', url: 'https://images.unsplash.com/photo-1588854337236-6889d631faa8?auto=format&fit=crop&q=80&w=300' }
 ];
