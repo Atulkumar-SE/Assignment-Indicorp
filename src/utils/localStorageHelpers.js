@@ -68,7 +68,7 @@ export const seedInitialData = () => {
         category: 'Screwdriver',
         inventoryNumber: 'TL-SCRW-001',
         quantity: 15,
-        image: 'https://images.unsplash.com/photo-1608613304899-ea8098577e38?auto=format&fit=crop&q=80&w=300'
+        image: 'https://images.unsplash.com/photo-1770657986086-c1f20eef30ff?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
       },
       {
         id: 'tool-5',
