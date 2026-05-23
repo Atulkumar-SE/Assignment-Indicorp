@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
+import { HashRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import AdminDashboard from './pages/AdminDashboard';
@@ -114,7 +114,8 @@ export default function App() {
 
   return (
     <ToastProvider>
-      <BrowserRouter basename="/Assignment-Indicorp">
+      {/* <BrowserRouter basename="/Assignment-Indicorp"> */}
+      <HashRouter>
         <Routes>
           {/* Guest Auth Gates */}
           <Route 
@@ -147,7 +148,8 @@ export default function App() {
           {/* Protected layout panels */}
           <Route path="/*" element={<DashboardLayout />} />
         </Routes>
-      </BrowserRouter>
+        </HashRouter>
+       {/* </BrowserRouter> */}
     </ToastProvider>
   );
 }
