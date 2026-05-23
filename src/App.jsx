@@ -114,7 +114,7 @@ export default function App() {
 
   return (
     <ToastProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/Assignment-Indicorp">
         <Routes>
           {/* Guest Auth Gates */}
           <Route 
