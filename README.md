@@ -7,6 +7,14 @@ This project was developed as a technical assignment for the Frontend Developer 
 <p align="center">
   <img src="src/Assets/AdminLogin.png" alt="Admin Login Page" width="800" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
+
+---
+
+##  Live Deployment
+
+Explore the live, interactive application hosted on GitHub Pages:
+👉 **[Launch Live Demo](https://atulkumar-se.github.io/Assignment-Indicorp/)**
+
 ---
 
 ## 🚀 Project Overview
@@ -123,8 +131,8 @@ npm install
 ```text
 npm run dev
 ```
-
 The app should now be running smoothly at http://localhost:5173 (or the port specified in your terminal).
+
 ---
 
 ## 🔮 Future Enhancements
